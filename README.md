@@ -4,6 +4,8 @@ This project focuses on building a **Machine Learning classification model** to 
 
 The workflow includes **data cleaning, feature engineering, model training, evaluation, and prediction generation** using **LightGBM**, a high-performance gradient boosting framework.
 
+NOTE :-The dataset is not included in this repository due to data usage restrictions.
+
 ---
 
 ### 🔧 Technologies Used
